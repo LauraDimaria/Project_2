@@ -22,12 +22,11 @@ Source : https://www.kaggle.com/datasets/piyushagni5/white-wine-quality
 ## Results
 
 #### Residual Sugars, by Quality Rating
-![Residual Sugar, by Quality](Residual sugar x quality.png)
-
+![Residual Sugar, by Quality](https://raw.githubusercontent.com/LauraDimaria/Project_2/d51eb3f2b0b0af0dd665b339ecb790ae2fda4f16/Residual%20sugar%20x%20quality.png)
 
 #### Alcohol Content and Fixed Acidity, by Quality Rating
 
-![Alcohol Content and Fixed Acidity, by Quality]([https://github.com/LauraDimaria/Project_2/blob/f310c1e5f4b5d44605ab1ebbee89ed31143b7e64/Alcohol%20x%20fixed%20acidity.png])
+![Alcohol Content and Fixed Acidity, by Quality](https://github.com/LauraDimaria/Project_2/blob/main/Alcohol%20x%20fixed%20acidity.png?raw=true)
 
 ## Model
 
