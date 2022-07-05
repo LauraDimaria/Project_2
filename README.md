@@ -27,7 +27,7 @@ Source : https://www.kaggle.com/datasets/piyushagni5/white-wine-quality
 
 #### Alcohol Content and Fixed Acidity, by Quality Rating
 
-![Alcohol Content and Fixed Acidity, by Quality](Alcohol x fixed acidity.png)
+![Alcohol Content and Fixed Acidity, by Quality]([https://github.com/LauraDimaria/Project_2/blob/f310c1e5f4b5d44605ab1ebbee89ed31143b7e64/Alcohol%20x%20fixed%20acidity.png])
 
 ## Model
 
